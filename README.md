@@ -1,30 +1,31 @@
 # 仿小米商城
 
 #### 介绍
-实训项目，仿小米商城，servlet项目
+JavaWeb实训项目，仿小米商城，servlet项目
 
 #### 软件架构
-软件架构说明
+servlet
 
+#### 工具环境
+
+1.开发工具 idea 2019.3
+2.数据库，MySql 5.5
+3.tomcat 9.0
+4.jdk 1.8
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  导入项目后对tomcat进行配置
+2.  配置jdk
+3.  修改c3p0-config.xml
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+MySql 8.0要自己导入8.0的依赖包
 
 #### 参与贡献
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+注册、登录页面
 
 
 #### 特技
