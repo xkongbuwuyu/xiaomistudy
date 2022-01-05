@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>优就业-小米电商项目</title>
+    <title>小米电商项目</title>
     <meta charset="UTF-8">
     <link rel="icon" href="${pageContext.request.contextPath}/Images/logo_favicon.ico" type="image/x-icon"/>
     <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/css/bootstrap.css"/>
